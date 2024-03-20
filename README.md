@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Dating App <br>🌱 I’m currently learning C#/.net, .net microservices and angular <br> 💬 Ask me about C#, databases and OOP<br> 👯 Check my other projects<br> 📫 How to reach me: aleksanderskykulski@gmail.com<br>
+🔭 I’m currently working on Dating App <br>🌱 I’m currently learning C#/.net, .net microservices and angular <br> 💬 Ask me about C#, C++ and OOP<br> 👯 Check my other projects<br> 📫 How to reach me: aleksanderskykulski@gmail.com<br>
 
 
 # 💻 Tech Stack:
