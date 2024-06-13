@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Qt App <br>🌱 I’m currently learning C#, C++ and Qt<br> 💬 Ask me about C#, C++ and OOP<br> 👯 Check my other projects<br> 📫 How to reach me: aleksanderskykulski@gmail.com<br>
+🔭 I’m currently working on Qt App <br>🌱 I’m currently learning C#, C++ and Qt<br> 💬 Ask me about C#, C++ and OOP<br> 👯 Check my Dating App project<br> 📫 How to reach me: aleksanderskykulski@gmail.com<br>
 
 
 # 💻 Tech Stack:
