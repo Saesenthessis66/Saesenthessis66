@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: <br>-C++ command line game<br>C project<br>🌱 I’m currently learning C++, CMake, C<br> 💬 Ask me about C++, C#, Python and OOP<br> 👯 Check my Dating App project<br> 📫 How to reach me: aleksanderskykulski@gmail.com<br>
+🔭 I’m currently working on: <br>-C++ command line game<br>-C project<br>🌱 I’m currently learning C++, CMake, C<br> 💬 Ask me about C++, C#, Python and OOP<br> 👯 Check my Dating App project<br> 📫 How to reach me: aleksanderskykulski@gmail.com<br>
 
 
 # 💻 Tech Stack:
