@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: <br>-C++ command line game<br>-C fundamentals<br>🌱 I’m currently learning C++, CMake, C<br> 💬 Ask me about C++, C#, Python and OOP<br> 👯 Check my Dating App project<br> 📫 How to reach me: aleksanderskykulski@gmail.com<br>
+🔭 I’m currently working on: <br>- Raytracing in C with SDL<br>🌱 I’m currently learning QT, SDL and microcontrollers<br> 💬 Ask me about C++, Python and OOP<br> 👯 Check my Dating App project<br> 📫 How to reach me: aleksanderskykulski@gmail.com<br>
 
 
 # 💻 Tech Stack:
