@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: <br>- Raytracing in C with SDL<br>🌱 I’m currently learning QT, SDL and microcontrollers<br> 💬 Ask me about C++, Python and OOP<br> 👯 Check my Dating App project<br> 📫 How to reach me: aleksanderskykulski@gmail.com<br>
+🔭 I’m currently working on: <br>- Raytracing in C with SDL<br>🌱 I’m currently learning design patterns and C++<br> 💬 Ask me about C, C++ and OOP<br> 👯 Check my Dating App and RayTracing project<br> 📫 How to reach me: aleksanderskykulski@gmail.com<br>
 
 
 # 💻 Tech Stack:
