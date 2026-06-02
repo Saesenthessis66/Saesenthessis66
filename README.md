@@ -1,16 +1,16 @@
 ## Hello I am Aleksander, Software Developer. 
 
 ### Technologies and concepts that I work with:
+- C
 - C++
 - Python
-- OOP
-- Design Patterns
-- Perl
 - Bash
 - SQL
+- OOP
+- Design Patterns
 
 ### Tools that I use:
 - Git
 - Linux
 - CMake
-- SQL Developer
+- DBeaver
