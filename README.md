@@ -4,10 +4,8 @@
 - C
 - C++
 - Python
-- Bash
+- Java
 - SQL
-- OOP
-- Design Patterns
 
 ### Tools that I use:
 - Git
